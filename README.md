@@ -10,7 +10,7 @@ git clone https://github.com/vyraun/long-tailed.git
 pip install .
 ```
 
-Other Repositories Used: 
+Other Repositories Used (thanks!): 
 
 * https://github.com/neulab/compare-mt
 * https://github.com/mjpost/sacrebleu
