@@ -41,7 +41,7 @@ bash evauate_model_on_splits.sh [model_dir]
 
 The plot can be generated using compare-mt
 
-#### Section 3: Analze Beam Search
+#### Section 3: Analyze Beam Search
 
 ```bash
 bash evaluate.sh model_dir data_dir
