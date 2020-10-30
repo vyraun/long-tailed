@@ -1,4 +1,4 @@
-# On Long-Tailed Phenomena in NMT. Findings of EMNLP 2020.
+## On Long-Tailed Phenomena in NMT. Findings of EMNLP 2020.
 
 Code release date: Nov 1. 2020.
 
@@ -23,7 +23,7 @@ Below are the steps to replicate each section of the paper.
 The scripts with the prefix 'run' provides the code, from data preparation to evaluation. For example: 
 
 ```bash
-bash run_iwslt14_de_en
+bash run_iwslt14_de_en.sh
 ```
 
 Compute the Spearman's Rank Correlation between Norms and Frequencies:
