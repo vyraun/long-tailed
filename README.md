@@ -2,7 +2,6 @@
 
 Code release date: Nov 1. 2020.
 
-##### Setup
 We use fairseq to train the models. Our code is tested on Ubuntu 18.04, with a Conda installation of Python 3.6.
 
 ```bash
