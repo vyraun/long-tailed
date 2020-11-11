@@ -1,6 +1,6 @@
 ## On Long-Tailed Phenomena in NMT. Findings of EMNLP 2020.
 
-Final Code release: (Now Projected) Nov 7. 2020 10 pm AoE. 
+Final Code release: (Now Projected) Nov 12. 2020 10 pm AoE. 
 
 We use fairseq to train the models. Our code is tested on Ubuntu 18.04, with a Conda installation of Python 3.6.
 
