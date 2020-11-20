@@ -1,6 +1,6 @@
 ## On Long-Tailed Phenomena in NMT. Findings of EMNLP 2020.
 
-Final Code release: Nov 18. 2020 10 pm AoE. 
+##### Warning:  The crux of the code, the focal loss and Anti-Focal loss implementations are available in teh Criterions directly and can be used with fairseq. However, the end to end code currently is more of a code-dump, rather than a code-release. Please wait until NAACL deadline is over, for a (much better) cleaned-up version. Final Code release date: Nov 24. 2020 10 pm AoE. 
 
 We use fairseq to train the models. Our code is tested on Ubuntu 18.04, with a Conda installation of Python 3.6.
 
