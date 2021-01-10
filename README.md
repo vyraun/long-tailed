@@ -1,6 +1,6 @@
 ## On Long-Tailed Phenomena in NMT. Findings of EMNLP 2020.
 
-##### Warning:  The crux of the code, the Focal loss and Anti-Focal loss implementations are available in the fairseq/criterions directory and can be directly used with fairseq. However, the end-to-end code currently is more of a code-dump, rather than a code-release. Please wait for a (much better) cleaned-up version. E2E code release date: Dec 24. 2020 10 pm AoE. 
+##### Warning:  The crux of the code, the Focal loss and Anti-Focal loss implementations are available in the fairseq/criterions directory and can be directly used with fairseq. However, the end-to-end code currently is more of a code-dump, rather than a code-release. Please wait for a (much better) cleaned-up version. 
 
 We use fairseq to train the models. Our code is tested on Ubuntu 18.04, with a Conda installation of Python 3.6.
 
